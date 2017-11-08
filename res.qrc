@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>buttonDown.png</file>
+        <file>buttonLeft.png</file>
+        <file>buttonRight.png</file>
+        <file>buttonUp.png</file>
+        <file>text.png</file>
+        <file>zork.png</file>
+        <file>exit.png</file>
+        <file>inventory.png</file>
+        <file>inventoryIcon.png</file>
+        <file>exitInventory.png</file>
+        <file>arm.png</file>
+        <file>medicine.png</file>
+        <file>teleportation.png</file>
+        <file>cursor.png</file>
+        <file>enemy.png</file>
+        <file>lose.png</file>
+        <file>win.png</file>
+        <file>boss.png</file>
+    </qresource>
+</RCC>
